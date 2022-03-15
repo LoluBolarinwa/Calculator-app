@@ -63,14 +63,6 @@ document.getElementById("clearEve").addEventListener('click', function(){
 
 
 
-// function rollClick() {
-
-
-// console.log
-// }
-
-
-
 
 // var calculation = document.querySelectorAll("td").innerHTML;
 // document.getElementById("result").appendChild(calculation);
