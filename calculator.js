@@ -56,12 +56,6 @@ document.getElementById("clearEve").addEventListener('click', function(){
 
 // const result = document.getElementById("result");
 
-// result,addEventListener("click", function () {
-//     this.alert("welcome");
-// });
-
-
-
 
 
 // var calculation = document.querySelectorAll("td").innerHTML;
