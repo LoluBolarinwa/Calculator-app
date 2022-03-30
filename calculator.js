@@ -22,10 +22,8 @@ for (let i = 0; i < input; i++) {
 
         let evaluate = document.getElementById('result').innerHTML;
 document.getElementById('equalto').addEventListener('click', function(){
-    // alert(2+3);
     // alert(eval(jojo));
     // alert(eval(input_Number));
-    // eval(jojo);
     // var des = Number(input_Number)
     // alert(eval(des));
    var koko = eval(document.getElementById('result').innerHTML);
