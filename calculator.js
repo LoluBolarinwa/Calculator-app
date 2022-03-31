@@ -47,12 +47,6 @@ document.getElementById("clearEve").addEventListener('click', function(){
 //     let evaluate = document.getElementById('result').innerHTML;
 // document.getElementById('equalto').addEventListener('click', function(){
 //     alert(evaluate);
-//     // eval()
-// });
-
-
-
-// const result = document.getElementById("result");
 
 
 
