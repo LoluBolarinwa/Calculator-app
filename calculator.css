@@ -46,6 +46,7 @@ table.cinereousTable {
 
 /* td {
     width: 25%;
+    height: 60px;
 }
 
  tr {
@@ -58,5 +59,7 @@ table.cinereousTable {
 #result {
   height: 40px;
   width: 200px;
+background-color: indigo;
+color:grey;
 }
 */
