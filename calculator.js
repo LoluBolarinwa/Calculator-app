@@ -42,11 +42,10 @@ document.getElementById("clearEve").addEventListener('click', function(){
 
 });
 
-reserve appendage
-// let equal_To = document.getElementById('equalto');
+let equal_To = document.getElementById('equalto');
     let evaluate = document.getElementById('result').innerHTML;
 document.getElementById('equalto').addEventListener('click', function(){
-//     alert(evaluate);
+    alert(evaluate);
 
 
 
