@@ -7,7 +7,7 @@
 /* var allCalculation = document.querySelectorAll("td").length.innerHTML; */
 
 let result = document.getElementById("result").innerHTML;
-// document.getElementById("result") = input_Number;
+document.getElementById("result") = input_Number;
 
 const input = document.querySelectorAll(".input").length;
 
@@ -49,5 +49,5 @@ document.getElementById('equalto').addEventListener('click', function(){
 
 
 
-// var calculation = document.querySelectorAll("td").innerHTML;
-// document.getElementById("result").appendChild(calculation);
+var calculation = document.querySelectorAll("td").innerHTML;
+document.getElementById("result").appendChild(calculation);
