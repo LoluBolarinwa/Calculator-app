@@ -51,3 +51,11 @@ document.getElementById('equalto').addEventListener('click', function(){
 
 var calculation = document.querySelectorAll("td").innerHTML;
 document.getElementById("result").appendChild(calculation);
+
+    
+//      tiles.forEach(tile => {
+//             tile.innerText = '';
+//             tile.classList.remove('playerX');
+//             tile.classList.remove('playerO');
+//         });
+//     }
