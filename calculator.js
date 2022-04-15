@@ -58,4 +58,5 @@ document.getElementById("result").appendChild(calculation);
 //             tile.classList.remove('playerX');
 //             tile.classList.remove('playerO');
 //         });
-//     }
+//     } 
+// let calcTile= document.query(innertext)
