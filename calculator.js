@@ -59,4 +59,4 @@ document.getElementById("result").appendChild(calculation);
 //             tile.classList.remove('playerO');
 //         });
 //     } 
-// let calcTile= document.query(innertext)
+// let calcTile= document.querySelector(innertext)
